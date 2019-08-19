@@ -1,0 +1,10 @@
+#map {
+    position: inherit;
+  }
+  .maps {
+    position: inherit;
+    width: 640px;
+    height: 480px;
+    margin: 0;
+    padding: 0;
+  }
